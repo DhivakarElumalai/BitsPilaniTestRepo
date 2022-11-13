@@ -1,2 +1,2 @@
 ReadME file to push to BitsPilaniTestRepo
-Edited by DhivaE
+Edited to learn merge conflict
